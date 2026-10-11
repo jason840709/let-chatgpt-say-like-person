@@ -35,12 +35,12 @@
 
 ## 怎麼使用？
 
-如果你的 AI 工具支援載入 skill，將本 repository 的資料夾放入工具指定的 skill 目錄，並保留 `SKILL.md` 與資料夾內的檔案。啟用方式依工具而定，skill 名稱是 `jason-let-chatgpt-say-like-person`。
+如果你的 AI 工具支援載入 skill，將本 repository 的資料夾放入工具指定的 skill 目錄，並保留 `SKILL.md` 與資料夾內的檔案。啟用方式依工具而定，skill 名稱是 `let-chatgpt-say-like-person`。
 
 也可以直接把 [SKILL.md](SKILL.md) 的完整內容提供給 AI，再附上任務與原文：
 
 ```text
-請依照 jason-let-chatgpt-say-like-person 的規則改寫下面的文章。
+請依照 let-chatgpt-say-like-person 的規則改寫下面的文章。
 讀者是沒有參與專案的工程師。
 請保留原意、數字、證據強度與必要條件，讓讀者能看懂做法和理由。
 
