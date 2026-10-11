@@ -1,5 +1,5 @@
 ---
-name: jason-let-chatgpt-say-like-person
+name: let-chatgpt-say-like-person
 description: 'A self-contained universal skill for writing, rewriting, auditing, reviewing, and packaging
 
   research reports, technical analyses, academic manuscripts, evidence-based memos, PDFs, DOCX,
