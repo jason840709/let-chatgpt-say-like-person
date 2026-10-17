@@ -1,29 +1,8 @@
 interface:
   display_name: "讓 ChatGPT 正常說人話"
-  short_description: 'A self-contained universal skill for writing, rewriting, auditing,
-    reviewing, and packaging
-
-    research reports, technical analyses, academic manuscripts, evidence-based memos,
-    PDFs, DOCX,
-
-    and other data-driven documents in natural Traditional Chinese (Taiwan usage).
-    It combines
-
-    reader-first explanation, anti-translationese and anti-AI-tone editing, explicit-referent
-    and
-
-    anti-shorthand discipline, terminology and metric definition, denominator and
-    data-level discipline, statistical and methodological review,
-
-    claim-evidence calibration, mandatory defensive-language restraint, substantive
-    conclusions,
-
-    conditional-result analysis, table/figure standards, and artifact QA.
-
-    It must not rely on any external humanizer, reviewer, style, statistics, or document-writing
-    skill.'
-  icon_small: assets/icon.svg
-  icon_large: assets/icon.svg
+  short_description: "用自然繁體中文說清楚研究、技術與決策；保留原意、理由、證據與必要條件。"
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
 policy:
   products:
   - chatgpt
