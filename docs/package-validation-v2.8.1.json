@@ -1,0 +1,28 @@
+{
+  "version": "2.8.1",
+  "status": "passed",
+  "format": "quick_validate passed (name and YAML; not behavioral quality)",
+  "package": "18 members; bytes equal source; no macOS junk; public name retained",
+  "relative_links": "passed",
+  "offline_sources": "13 embedded sources equal current Markdown",
+  "public_content_scan": "no local home/volume/tmp paths or known token prefixes in package Markdown",
+  "browser": {
+    "title": "v2.8.1",
+    "articles": 13,
+    "copy_buttons": 13,
+    "navigation": "passed",
+    "copy_button": "passed using mocked clipboard; no OS clipboard permission assertion",
+    "desktop_viewport": [
+      1280,
+      900
+    ],
+    "mobile_viewport": [
+      390,
+      844
+    ],
+    "body_horizontal_overflow": false,
+    "browser": "installed Google Chrome via Playwright; no browser installed"
+  },
+  "visual_review": "Desktop and mobile screenshots inspected; readable layout, no page-wide horizontal overflow",
+  "scope": "Packaging and page checks only; behavior tests and limitations are in VALIDATION.md"
+}

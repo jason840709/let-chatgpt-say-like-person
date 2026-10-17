@@ -1,0 +1,42 @@
+{
+  "previous_public_version": "v2.6.0",
+  "previous_public_commit": "c1c53f2e878bbf7026a2db5f9b564c955fdbff0a",
+  "new_version": "v2.8.1",
+  "unit": "UTF-8 bytes",
+  "scope": "same public file paths; public skill name retained; not token, time, cost or quota measurement",
+  "files": {
+    "SKILL.md": {
+      "v2.6.0_bytes": 15335,
+      "v2.8.1_bytes": 8329
+    },
+    "references/review-gates.md": {
+      "v2.6.0_bytes": 13485,
+      "v2.8.1_bytes": 4731
+    },
+    "references/reader-and-referents.md": {
+      "v2.6.0_bytes": 11131,
+      "v2.8.1_bytes": 3340
+    },
+    "references/natural-zh-tw.md": {
+      "v2.6.0_bytes": 9369,
+      "v2.8.1_bytes": 2967
+    }
+  },
+  "read_scopes": {
+    "entry": {
+      "v2.6.0_bytes": 15335,
+      "v2.8.1_bytes": 8329,
+      "reduction_percent": 45.7
+    },
+    "entry_and_review": {
+      "v2.6.0_bytes": 28820,
+      "v2.8.1_bytes": 13060,
+      "reduction_percent": 54.7
+    },
+    "four_core": {
+      "v2.6.0_bytes": 49320,
+      "v2.8.1_bytes": 19367,
+      "reduction_percent": 60.7
+    }
+  }
+}
